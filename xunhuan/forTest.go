@@ -47,3 +47,12 @@ func for2() {
 		fmt.Printf("第 %d 位 x 的值 = %d\n", i, x)
 	}
 }
+
+/*
+	无限循环
+*/
+func for3() {
+	for true {
+		fmt.Printf("这是无限循环 \n")
+	}
+}
