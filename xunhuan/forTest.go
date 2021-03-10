@@ -13,6 +13,7 @@ func main() {
 
 	for1()
 	for2()
+	//for3()
 }
 
 func for1() {
